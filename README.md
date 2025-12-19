@@ -1,4 +1,4 @@
-# Chenchen Ding, PhD
+# Chenchen Ding, PhD, Postdoc research fellow
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0006--5076--9282-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0006-5076-9282)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=9lZGCLMAAAAJ)
@@ -102,7 +102,7 @@ My research aims to understand and predict biodiversity change under acceleratin
 
 - **Programming:** R, Python  
 - **Modeling:** GLMMs / Bayesian hierarchical models (e.g., MCMCglmm, brms)  
-- **Ecological analysis:** SDMs, community similarity & turnover, conservation planning (e.g., Marxan)
+- **Ecological analysis:** Species distribution models (SDMs),  systematic conservation planning (e.g., Marxan)
 
 ---
 
