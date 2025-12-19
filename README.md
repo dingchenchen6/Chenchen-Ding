@@ -14,7 +14,7 @@
 
 I am a joint postdoctoral researcher at **Peking University (PKU)** and the **International Institute for Applied Systems Analysis (IIASA)**.  
 
-My research lies at the intersection of **global change biology**, **macroecology**, and **conservation science**, with a focus on how **climate change** and **land-use change** jointly shape biodiversity patterns, including species abundance, species richness, community composition and structure, and associated extinction risks.  
+My research lies at the intersection of **global change biology**, **macroecology**, and **conservation science**, with a focus on how **climate change** and **land-use change** jointly affect biodiversity, including species abundance, species richness, community composition and structure, and associated extinction risks. 
 
 I integrate **large-scale biodiversity databases**, **trait-based and phylogenetic approaches**, and **advanced statistical models** to address both fundamental and applied questions in biodiversity conservation.
 ---
